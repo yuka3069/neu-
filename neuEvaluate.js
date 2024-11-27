@@ -15,11 +15,7 @@
   const currentUrl = window.location.href;
   let urlArr = currentUrl.split("/");
 
-  function delay(milliseconds) {
-    return new Promise((resolve) => {
-      setTimeout(resolve, milliseconds);
-    });
-  }
+  const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
   async function evaluate() {
     console.log("start evaluating....");
     let tableRows = document.querySelectorAll("tr"); // btw I don't know why someone still use <table> tag today XD
