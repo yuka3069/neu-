@@ -18,4 +18,5 @@
 - 需要关闭浏览器当前页面才可以停止
 - 请勿滥用，遵守学校相关规定
 
-[contribute here](https://github.com/yuka3069/neu-)
+- [contribute here](https://github.com/yuka3069/neu-)
+- [greasy fork](https://greasyfork.org/zh-CN/scripts/519122-neu-evaluatevl)
