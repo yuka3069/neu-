@@ -55,7 +55,7 @@
     checkAllRadio(tableRows);
     await delay(1 * 1000);
     submitResult(saveResultBtn);
-    await delay(1 * 200);
+    await delay(1 * 1000);
     next();
   }
 
